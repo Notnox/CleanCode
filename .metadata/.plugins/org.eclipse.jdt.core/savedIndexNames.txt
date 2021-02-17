@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Notnox\Documents\workspace\CleanCode\.metadata\.plugins\org.eclipse.jdt.core
+1432643626.index
+166644308.index
